@@ -1,5 +1,5 @@
 """
-SEIR Predictability Horizon - corrected analysis.
+SEIR Predictability Horizon
 
 Primary metric: cumulative incidence R(t) — monotone, stable, and
 intervention-sensitive throughout the full simulation window.
