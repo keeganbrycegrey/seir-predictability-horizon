@@ -4,7 +4,7 @@
 **ORCID:** [0009-0004-2948-6005](https://orcid.org/0009-0004-2948-6005)  
 **Affiliation:** Independent Researcher, Quezon National High School  
 **Contact:** abejakeeganbryce@gmail.com  
-**DOI:** *Placeholder*  
+**DOI:** *https://doi.org/10.5281/zenodo.20290318*  
 **License:** [MIT](LICENSE) 
 
 ***Disclaimer: Currently not peer-reviewed***
@@ -99,7 +99,7 @@ The critical intervention window closes at approximately **Day 10**. After this 
 
 If you use this work, please cite it using the metadata in [`CITATION.cff`](CITATION.cff), or use the following APA 7 reference:
 
-> Abeja, K. B. P. (2026). *The 10-day window: Intervention timing, parameter uncertainty, and the collapse of epidemic forecast reliability* [Manuscript]. Independent Researcher, Quezon National High School. https://orcid.org/0009-0004-2948-6005
+> Abeja, K. B. P. (2026). *The 10-day window: Intervention timing, parameter uncertainty, and the collapse of epidemic forecast reliability* https://doi.org/10.5281/zenodo.20290318. Independent Researcher, Quezon National High School. https://orcid.org/0009-0004-2948-6005
 
 ---
 
